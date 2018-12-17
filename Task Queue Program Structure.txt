@@ -1,0 +1,4 @@
+Add Task | Clear Tasks
+--------------------------------
+Task Info | Task Completed Button
+---------------------------------
